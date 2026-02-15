@@ -1,0 +1,4 @@
+Nader|Sulieman|nader@gmail.com|0599884008|A105|4321|10000.000000
+Mohamed|Sulieman|moh'd@gmail.com|0597780880|A107|4321|4000.000000
+Hasan|Qamar|Hasan@gmail.com|0593874652|A110|3773|7000.000000
+Huda|Mohamed|huda@gmail.com|0593456783|A106|0000|10000.000000

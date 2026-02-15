@@ -123,7 +123,3 @@ Every line of code was written with understanding and purpose.
 🔗 [github.com/nadermohasan/BankSystemOOP-Final_](https://github.com/nadermohasan/BankSystemOOP-Final)
 
 ---
-
-
-The system follows a **layered OOP architecture** that promotes separation of concerns:
-
